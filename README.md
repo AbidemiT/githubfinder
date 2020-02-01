@@ -1,3 +1,6 @@
+# Project Status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/922cd48b-7e4f-496f-ac19-4bcd5c8eb305/deploy-status)](https://app.netlify.com/sites/festive-galileo-06a992/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
